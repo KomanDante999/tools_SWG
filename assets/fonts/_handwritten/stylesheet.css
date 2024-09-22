@@ -1,0 +1,80 @@
+@font-face {
+	font-family: 'AmadeusAP';
+	src: local('AmadeusAP'),
+		url('AmadeusAP.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'AXP ZhikharevC';
+	src: local('AXP ZhikharevC'),
+		url('AXP ZhikharevC.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'BrushScriptUkrain';
+	src: local('BrushScriptUkrain'),
+		url('BrushScriptUkrain.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Miama Nueva';
+	src: local('Miama Nueva'),
+		url('Miama Nueva.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa Script';
+	src: local('Nexa Script'),
+		url('Nexa Script.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Pacifico';
+	src: local('Pacifico'),
+		url('Pacifico.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Sweet Mavka Script';
+	src: local('Sweet Mavka Script'),
+		url('Sweet Mavka Script.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VeryBerry Pro';
+	src: local('VeryBerry Pro'),
+		url('VeryBerry Pro.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Zapf ChanceC';
+	src: local('Zapf ChanceC'),
+		url('Zapf ChanceC.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}

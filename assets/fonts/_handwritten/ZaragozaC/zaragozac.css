@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'ZaragozaC';
+	src: local('ZaragozaC'),
+		url('zaragozac.woff2') format('woff2'),
+		url('zaragozac.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}

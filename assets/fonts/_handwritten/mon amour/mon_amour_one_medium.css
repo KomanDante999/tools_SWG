@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Mon Amour One Medium';
+	src: local('Mon Amour One Medium'), local('Mon-Amour-One-Medium'),
+		url('mon-amour-one-medium.woff2') format('woff2'),
+		url('mon-amour-one-medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
