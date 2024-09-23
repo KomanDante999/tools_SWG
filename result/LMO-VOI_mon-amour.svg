@@ -1,0 +1,23 @@
+<svg width="1335" height="735" viewBox="0 0 1335 735" xmlns="http://www.w3.org/2000/svg">
+	<g style="font-family:Podkova; font-weight: 800; font-size:515px; stroke:rgba(0, 0, 0, 1); stroke-width:11;">
+		<text x="68" y="420" fill="none" transform="scale(1.11,1)">В</text>
+		<text x="698" y="420" fill="none" transform="scale(1.11,1)">И</text>
+	</g>
+	<g transform="translate(49,-79)">
+		<circle cx="552" cy="120" r="34"
+			style="fill:rgba(12, 123, 192, 1); stroke:rgba(12, 123, 192, 1); stroke-width:2;" />
+		<polygon points="576,325 576,168 528,168 528,216 410,216 410,257 528,257 528,280 418,280 365,426 408,441 452,325"
+			style="fill:rgba(12, 123, 192, 1); stroke:rgba(12, 123, 192, 1); stroke-width:2;" />
+		<path d="M590,215 A 131,131 0 1 1 473,345" style="stroke:rgba(226, 2, 13, 1); stroke-width:50; fill:none" />
+	</g>
+	<g>
+		<path id="lesosib" d="M 25 510 L 1335 670" fill="transparent" />
+		<text style="font-family: 'Mon Amour One Medium'; font-weight: 900; font-size: 220px;" fill="rgba(12, 123, 192, 1)"
+			rotate="-18">
+			<textPath href="#lesosib">
+				Лесосибирск
+			</textPath>
+
+		</text>
+	</g>
+</svg>
